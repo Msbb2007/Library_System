@@ -14,7 +14,7 @@
 
 <h2>Technologies Used</h2>
 <p>
-  PHP, MySQL, HTML, CSS, Font Awesome, Vazirmatn Font
+  PHP, HTML, CSS, Font Awesome, Vazir Font
 </p>
 
 <h2>Run Project</h2>
@@ -24,7 +24,7 @@
 <code>http://localhost/Library_System/App/</code>
 
 <p>
-  <i>Note: Ensure Apache and MySQL are running in your XAMPP Control Panel.</i>
+  <i>Note: Ensure Apache is are running in your XAMPP Control Panel.</i>
 </p>
 
 <h2>Screenshots</h2>
