@@ -14,7 +14,7 @@
 
 <h2>Technologies Used</h2>
 <p>
-  PHP, MySQL, HTML, CSS, Font Awesome, Vazirmatn Font
+  PHP, HTML, CSS, Font Awesome, Vazir Font
 </p>
 
 <h2>Run Project</h2>
@@ -24,10 +24,16 @@
 <code>http://localhost/Library_System/App/</code>
 
 <p>
-  <i>Note: Ensure Apache and MySQL are running in your XAMPP Control Panel.</i>
+  <i>Note: Ensure Apache is are running in your XAMPP Control Panel.</i>
 </p>
 
 <h2>Screenshots</h2>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshots/Screenshot (100).png" alt="Library System Dashboard" width="450" style="border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./Screenshots/Screenshot (101).png" alt="Library System User Management" width="450" style="border: 1px solid #ddd; border-radius: 8px;">
+  <img src="./Screenshots/Screenshot (102).png" alt="Library System User Management" width="450" style="border: 1px solid #ddd; border-radius: 8px;">
+</div>
 
 <h2>Directory Structure</h2>
 <pre>
