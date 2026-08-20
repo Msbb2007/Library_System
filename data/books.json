@@ -1,0 +1,16 @@
+[
+    {
+        "id": "bk_2",
+        "title": "گلستان",
+        "author": "سعدی",
+        "isBorrowed": false,
+        "borrowedBy": null
+    },
+    {
+        "id": "bk_1",
+        "title": "شاهنامه",
+        "author": "فردوسی",
+        "isBorrowed": true,
+        "borrowedBy": "09917842608"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "name": "app/library_system",
+    "description": "Library Management System with PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
