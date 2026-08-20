@@ -29,9 +29,6 @@
 
 <h2>Screenshots</h2>
 
-<img src="./Screenshot (98).png" alt="Library System Dashboard" width="450">
-<img src="./Screenshot (99).png" alt="Library System User Management" width="450">
-
 <h2>Directory Structure</h2>
 <pre>
 htdocs/
@@ -43,4 +40,4 @@ htdocs/
 </pre>
 
 <h2>Made By</h2>
-<p>Ehsan</p>
+<p>MSB</p>
