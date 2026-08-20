@@ -24,7 +24,7 @@
 <code>http://localhost/Library_System/App/</code>
 
 <p>
-  <i>Note: Ensure Apache is are running in your XAMPP Control Panel.</i>
+  <i>Note: Ensure Apache is running in your XAMPP Control Panel.</i>
 </p>
 
 <h2>Screenshots</h2>
